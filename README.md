@@ -1,2 +1,0 @@
-# firstExampleRJS
-Created with CodeSandbox
